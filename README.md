@@ -6,11 +6,11 @@
 
 
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/reallyelvik?tab=repositories](https://github.com/reallyelvik?tab=repositories)
 
-- 💬 Ask me about **After Effects, Premiere Pro and Blender**
+- 💬 Ask me about **After Effects and Premiere Pro**
 
 - 📫 How to reach me **elviksharma@gmail.com**
 
