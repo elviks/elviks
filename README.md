@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **After Effects and Premiere Pro**
 
-- 📫 How to reach me **elviksharma@gmail.com**
+- 📫 How to reach me **elviksharma111@gmail.com**
 
 - ⚡ Fun fact **We can exchange MEMES**
 
