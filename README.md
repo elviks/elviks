@@ -6,13 +6,12 @@
 
 <br clear="both">
 
+###
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elviks.elviks&left_color=green&right_color=cadetblue&left_text=Stalkers"  />
+  <h1 align="left">Hi folks! This is Elvik</h1>
 </div>
 
-###
-
-<h1 align="left">Hi folks! This is Elvik</h1>
 
 ###
 
