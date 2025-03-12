@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="300" src="https://media.tenor.com/SgJrUj4BbtUAAAAM/clove-valorant.gif"  />
+  <img height="300" src="https://gifdb.com/images/high/throw-clove-power-valorant-xdaxruj8cbur0va2.gif"  />
 </div>
 
 ###
