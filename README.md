@@ -1,17 +1,8 @@
-<div align="left">
-  <img height="300" src="https://gifdb.com/images/high/throw-clove-power-valorant-xdaxruj8cbur0va2.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
 ###
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elviks.elviks&left_color=green&right_color=cadetblue&left_text=Stalkers"  />
   <h1 align="left">Hi folks! This is Elvik</h1>
 </div>
-
 
 ###
 
@@ -76,3 +67,9 @@
 </div>
 
 ###
+
+###
+
+<div align="left">
+  <img width="300" src="https://media.tenor.com/ZBZvUrx8QsgAAAAM/clove-valorant.gif" />
+</div>
