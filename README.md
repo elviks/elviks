@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="150" src="https://64.media.tumblr.com/7d9c0d962036ba81a32b3d06b45736de/c5726b57495bb602-10/s540x810/0b07ffbd14ad7c6bdf5758892b0b3f0c9ff4dd5f.gif"  />
+  <img height="150" src="https://media.tenor.com/SgJrUj4BbtUAAAAM/clove-valorant.gif"  />
 </div>
 
 ###
